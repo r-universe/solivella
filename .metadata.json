@@ -2,5 +2,9 @@
   {
     "package": "NetMix",
     "oncran": true
+  },
+  {
+    "package": "poisbinom",
+    "oncran": true
   }
 ]

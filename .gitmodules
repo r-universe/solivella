@@ -8,3 +8,8 @@
 	url = https://github.com/solivella/netmix
 	shallow = true
 	registered = true
+[submodule "poisbinom"]
+	path = poisbinom
+	url = https://github.com/solivella/poisbinom
+	shallow = true
+	registered = true
