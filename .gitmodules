@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "NetMix"]
 	path = NetMix
 	url = https://github.com/solivella/netmix
-	shallow = true
-	registered = true
 [submodule "poisbinom"]
 	path = poisbinom
 	url = https://github.com/solivella/poisbinom
-	shallow = true
-	registered = true
