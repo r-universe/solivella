@@ -5,6 +5,9 @@
 [submodule "NetMix"]
 	path = NetMix
 	url = https://github.com/solivella/netmix
+[submodule "lda"]
+	path = lda
+	url = https://github.com/solivella/lda
 [submodule "poisbinom"]
 	path = poisbinom
 	url = https://github.com/solivella/poisbinom
