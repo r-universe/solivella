@@ -5,6 +5,9 @@
 [submodule "NetMix"]
 	path = NetMix
 	url = https://github.com/solivella/netmix
+[submodule "i3pack"]
+	path = i3pack
+	url = https://github.com/cran/i3pack
 [submodule "lda"]
 	path = lda
 	url = https://github.com/solivella/lda
